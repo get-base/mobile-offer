@@ -19,5 +19,6 @@ We are a NYC startup that is disrupting the wellness and healthcare space. We br
 - Check our webpage: https://get-base.com
 - Check some news about us: https://www.builtinnyc.com/2020/09/16/base-launch-1m-pre-seed?utm_source=facebook&utm_medium=organic_social&utm_content=acff6591-eb79-4989-b7f6-0faacf1eb55a&utm_campaign=breaking_news
 - We have VIP and world-class investors involved in our company
+- Lola, the CEO, is a former Senior Software Engineer @ Amazon, Facebook/Instagram with a Masters in Machine Learning.
 
-We are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+We are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Shoot us a message at jobs@get-base.com with your LinkedIn profile, resume or any info about you.
