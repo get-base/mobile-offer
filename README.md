@@ -1,10 +1,11 @@
-# mobile-offer
+# Android Lead Engineer @ Base
 
 ## We are looking for someone who is:
 - Really passionate about mobile development. If you LOVE coding, designing architectures and discussing why framework A is better than framework B, Base is your team!
 - Fast learner! At the end of the day we don't care if you are an expert in a given technology because we believe that the best engineers are curious about new technologies, smart, and learn fast.
 - We get it, meetings sometimes are not fun but we are looking for someone that likes to get challenged, prioritize new tasks depending on user feedback and enjoys working on a team. 
 - Passionate about the U.S. technology market. Our HQ is in NYC and our ideal candidate is really excited about coming to NYC once or twice a year (of course, all expenses paid by the company).
+- You'd like to work with talent that comes from companies like Instagram, Facebook, Spotify, and others.
 
 ## More about the role:
 - Kick off our Android codebase and discuss different architectures with Lola.
