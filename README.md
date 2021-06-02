@@ -42,7 +42,7 @@ In general, we will sponsor the work VISA for any Spanish Base employee that is 
 We are striving to have 1/3 of our employees in Spain and 2/3 in NYC. Our engineering team will be mostly based in Spain
 
 ### Random
-Checkout some photos of our NYC office, you'll be welcome at any time post-Covid!
+Check out some photos of our NYC office, you'll be welcome at any time post-Covid!
 
 ![Office](https://get-base.com/img/office1.png)
 ![Office2](https://get-base.com/img/office2.png)
